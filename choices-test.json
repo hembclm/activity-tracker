@@ -1,0 +1,30 @@
+[
+  {
+    "Activity type": "Training and education",
+    "Subtype": [
+      {
+        "Name": "Colour codes",
+        "Topic": [
+          { "Name": "All Codes" }, 
+          { "Name": "Code Red" }, 
+          { "Name": "Code Silver" }
+        ]
+      }, 
+      {
+        "Name": "Business Continuity"
+      }
+    ]
+  },
+  {
+    "Activity type": "Exercise",
+    "Subtype": [
+      {
+        "Name": "Drill",
+        "Topic": [
+          { "Name": "Code Red" }, 
+          { "Name": "Code Silver" }
+        ]
+      }
+    ]
+  }
+]
